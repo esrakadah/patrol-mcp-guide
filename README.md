@@ -12,7 +12,7 @@ strategy through to AI-driven test automation using the Patrol MCP
 > **Author's Note**: This content includes Esra Kadah's own development and hobby
 > knowledge for community work and some experiences with current employment at
 > Antigua Mobile, drafted with Gemini 3.1 Pro Preview, Fable, Opus, and Sonnet 5.
-> All employer, client, and project names have been abstracted; the example app is
+> All client and project names have been abstracted; the example app is
 > referred to as `AppName` throughout. Facts about Patrol and MCP were independently
 > verified against primary sources as of 2026-08 (see [Further Reading](#further-reading)).
 
